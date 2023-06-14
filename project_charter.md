@@ -2,17 +2,20 @@
 
 ## Nombre del Proyecto
 
-[Nombre del proyecto aquí]
+[Campaña de marketing - Aceptación producto financiero]
 
 ## Objetivo del Proyecto
 
-[Descripción breve del objetivo del proyecto y por qué es importante]
+[Teniendo en cuenta la importancia de la captación en el equilibrio financiero de un banco, este proyecto tiene como objetivo realizar un análisis detallado del resultado de las campañas de marketing telefónico realizadas previamente para el ofrecimiento de CDT's (Certificados de depósito a término) a clientes activos del banco con productos de crédito.]
 
 ## Alcance del Proyecto
 
 ### Incluye:
 
-- [Descripción de los datos disponibles]
+- [El dataset analizado fue descargado del repositorio de aprendizaje computacional de la Universidad de Califormia Irvine (UCI Machine learning repository). La dirección web es la siguiente: https://archive.ics.uci.edu/ml/datasets/Bank+Marketing.]
+![VariablesBank](https://github.com/AndreaRubianoM/proyecto/assets/135787751/4f3a2c6f-083a-4497-844d-a47c831007af)
+
+
 - [Descripción de los resultados esperados]
 - [Criterios de éxito del proyecto]
 
