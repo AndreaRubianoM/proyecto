@@ -23,7 +23,7 @@ Teniendo en cuenta la importancia de la captación en el equilibrio financiero d
 
 ## Metodología
 
-[Descripción breve de la metodología que se utilizará para llevar a cabo el proyecto]
+Se aplicará la metodología CRISP- DM, cuyas etapas se describen en el cronograma del proyecto.
 
 ## Cronograma
 
@@ -36,5 +36,5 @@ Teniendo en cuenta la importancia de la captación en el equilibrio financiero d
 
 ## Presupuesto
 
-Teniendo en cuenta que es un ejercicio educativo, los recursos utilizados ser´´an aportados por el estudiante.  
+Teniendo en cuenta que es un ejercicio educativo, los recursos utilizados serán aportados por el estudiante.  
 
