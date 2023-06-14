@@ -2,26 +2,24 @@
 
 ## Nombre del Proyecto
 
-[Campaña de marketing - Aceptación producto financiero]
+Campaña de marketing - Aceptación producto financiero
 
 ## Objetivo del Proyecto
 
-[Teniendo en cuenta la importancia de la captación en el equilibrio financiero de un banco, este proyecto tiene como objetivo realizar un análisis detallado del resultado de las campañas de marketing telefónico realizadas previamente para el ofrecimiento de CDT's (Certificados de depósito a término) a clientes activos del banco con productos de crédito.]
+Teniendo en cuenta la importancia de la captación en el equilibrio financiero de un banco, este proyecto tiene como objetivo realizar un análisis detallado del resultado de las campañas de marketing telefónico realizadas previamente para el ofrecimiento de CDT's (Certificados de depósito a término) a clientes activos del banco con productos de crédito.
 
 ## Alcance del Proyecto
 
 ### Incluye:
 
-- [El dataset analizado fue descargado del repositorio de aprendizaje computacional de la Universidad de Califormia Irvine (UCI Machine learning repository). La dirección web es la siguiente: https://archive.ics.uci.edu/ml/datasets/Bank+Marketing.]
+- El dataset analizado fue descargado del repositorio de aprendizaje computacional de la Universidad de Califormia Irvine (UCI Machine learning repository). La dirección web es la siguiente: https://archive.ics.uci.edu/ml/datasets/Bank+Marketing.
+
 ![VariablesBank](https://github.com/AndreaRubianoM/proyecto/assets/135787751/4f3a2c6f-083a-4497-844d-a47c831007af)
 
 
-- [Descripción de los resultados esperados]
-- [Criterios de éxito del proyecto]
+- Teniendo en cuenta los resultados históricos, se seleccionarán las características de cliente que permitan determinar un perfil con mayor probabilidad en la aceptación de la oferta de adquisición del producto CDT.
 
-### Excluye:
-
-- [Descripción de lo que no está incluido en el proyecto]
+- Se validará que la métrica de desempeño f1-score se encuentre por encima del 70%.
 
 ## Metodología
 
@@ -29,33 +27,14 @@
 
 ## Cronograma
 
-| Etapa | Duración Estimada | Fechas |
-|------|---------|-------|
-| Entendimiento del negocio y carga de datos | 2 semanas | del 1 de mayo al 15 de mayo |
-| Preprocesamiento, análisis exploratorio | 4 semanas | del 16 de mayo al 15 de junio |
-| Modelamiento y extracción de características | 4 semanas | del 16 de junio al 15 de julio |
-| Despliegue | 2 semanas | del 16 de julio al 31 de julio |
-| Evaluación y entrega final | 3 semanas | del 1 de agosto al 21 de agosto |
+![image](https://github.com/AndreaRubianoM/proyecto/assets/135787751/acdb7e2f-e547-4bf1-9f78-f5ad52fa7f21)
 
-Hay que tener en cuenta que estas fechas son de ejemplo, estas deben ajustarse de acuerdo al proyecto.
 
 ## Equipo del Proyecto
 
-- [Nombre y cargo del líder del proyecto]
-- [Nombre y cargo de los miembros del equipo]
+- Andrea Rubiano
 
 ## Presupuesto
 
-[Descripción del presupuesto asignado al proyecto]
+Teniendo en cuenta que es un ejercicio educativo, los recursos utilizados ser´´an aportados por el estudiante.  
 
-## Stakeholders
-
-- [Nombre y cargo de los stakeholders del proyecto]
-- [Descripción de la relación con los stakeholders]
-- [Expectativas de los stakeholders]
-
-## Aprobaciones
-
-- [Nombre y cargo del aprobador del proyecto]
-- [Firma del aprobador]
-- [Fecha de aprobación]
