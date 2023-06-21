@@ -2,24 +2,25 @@
 
 ## Origen de los datos
 
-- [ ] Especificar la fuente de los datos y la forma en que se obtuvieron. 
+- El dataset analizado fue descargado del repositorio de aprendizaje computacional de la Universidad de Califormia Irvine (UCI Machine learning repository). La dirección web es la siguiente: https://archive.ics.uci.edu/ml/datasets/Bank+Marketing.
 
 ## Especificación de los scripts para la carga de datos
 
-- [ ] Especificar los scripts utilizados para la carga de los datos. 
+- Revisar carpeta /proyecto/scripts/data_acquisition
 
 ## Referencias a rutas o bases de datos origen y destino
 
-- [ ] Especificar las rutas o bases de datos de origen y destino para los datos.
+- Ruta origen: https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
+- Dataset: bank-additional-full.csv
 
 ### Rutas de origen de datos
 
-- [ ] Especificar la ubicación de los archivos de origen de los datos.
-- [ ] Especificar la estructura de los archivos de origen de los datos.
-- [ ] Describir los procedimientos de transformación y limpieza de los datos.
+- Ubicación del de origen de los datos: el archivo será cargado en el repositorio.
+- Estructura del archivo de origen de los datos: archivo en formato csv (delimitado por comas).
+- Procedimientos de transformación y limpieza de los datos: se validó la cantidad de datos nulospor variable, se realizó cambio de nombre a las variables para un mejor entendimiento.
 
 ### Base de datos de destino
 
-- [ ] Especificar la base de datos de destino para los datos.
-- [ ] Especificar la estructura de la base de datos de destino.
-- [ ] Describir los procedimientos de carga y transformación de los datos en la base de datos de destino.
+- Ubicación del de origen de los datos: el archivo será cargado en el repositorio.
+- Estructura del archivo de origen de los datos: archivo en formato csv (delimitado por comas).
+- Procedimientos de transformación y limpieza de los datos: se validó la cantidad de datos nulospor variable, se realizó cambio de nombre a las variables para un mejor entendimiento.
