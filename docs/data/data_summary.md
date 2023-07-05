@@ -92,5 +92,6 @@ En esta sección se presenta un ranking de las variables más importantes para p
 
 A contnuación se encuentra el gráfico de análisis de correlaciones para el total de variables numéricas del dataset. Este análisis nos permitió validar la relación directa existente entre las variables de mercado.
 
-![image](https://github.com/AndreaRubianoM/proyecto/assets/135787751/808fe6ec-1ab8-4877-a53c-457296cd0627)
+![image](https://github.com/AndreaRubianoM/proyecto/assets/135787751/b8ee37c9-3f8a-4d52-aa30-c6a4684947bf)
+
 
