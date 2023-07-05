@@ -66,7 +66,23 @@ En este caso, y de acuerdo a lo explicado anteriormente, al tener también una c
 ![image](https://github.com/AndreaRubianoM/proyecto/assets/135787751/1b0463d2-de91-4958-bef5-d38e029bcc58)
 ![image](https://github.com/AndreaRubianoM/proyecto/assets/135787751/5e29ee23-c47a-40f5-9fd7-0844a5fad7c9)
 
+Variables Cualitativas Clientes
+* Activ_económica: Las actividades de mayor participación son las administrativas, operativas y técnicas.
+* Estado_civil: Un poco más del 50% de la población es casada.
+* Nivel _educativo: La mitad de la población se ubica entre universitarios y bachilleres.
+* Mora_actual: A pesar de que la mayoría de la población tiene un indicador positivo en cartera, el nivel de despoblamiento de la variable es alto. Por lo cual se puede considerar su eliminación del análisis.
+* Créd_vivienda: La mayoría de los contactados tiene crédito de vivienda.
+* Créd_personal: La mayoría de los contactados no tiene este crédito personal.
+* Medio_contacto: La mayoría fue contactada a través del número celular.
+* Mes_contacto: Al parecer la mayor parte de la campaña se llevó a cabo en el mes de mayo.
+* Día_contacto: Todos los días de la semana el número de contactos es muy similar.
+* Resultado anterior: La mayoría de personas no tenía un resultado previo, lo que nos lleva a pensar que son campañas de primera vez.
 
+![image](https://github.com/AndreaRubianoM/proyecto/assets/135787751/ec27dfbe-1440-4776-809f-26d638ece14a)
+![image](https://github.com/AndreaRubianoM/proyecto/assets/135787751/e1c27ea8-eed1-4d80-88c8-166aa00b89d6)
+
+![image](https://github.com/AndreaRubianoM/proyecto/assets/135787751/4f262db4-5d40-4a57-88b1-ea93a1287114)
+![image](https://github.com/AndreaRubianoM/proyecto/assets/135787751/077aaca3-ffd8-4bd1-a5be-ae7599b8e0c0)
 
 ## Ranking de variables
 
@@ -74,4 +90,7 @@ En esta sección se presenta un ranking de las variables más importantes para p
 
 ## Relación entre variables explicativas y variable objetivo
 
-En esta sección se presenta un análisis de la relación entre las variables explicativas y la variable objetivo. Se utilizan gráficos como la matriz de correlación y el diagrama de dispersión para entender mejor la relación entre las variables. Además, se pueden utilizar técnicas como la regresión lineal para modelar la relación entre las variables.
+A contnuación se encuentra el gráfico de análisis de correlaciones para el total de variables numéricas del dataset. Este análisis nos permitió validar la relación directa existente entre las variables de mercado.
+
+![image](https://github.com/AndreaRubianoM/proyecto/assets/135787751/808fe6ec-1ab8-4877-a53c-457296cd0627)
+
