@@ -84,10 +84,6 @@ Variables Cualitativas Clientes
 ![image](https://github.com/AndreaRubianoM/proyecto/assets/135787751/4f262db4-5d40-4a57-88b1-ea93a1287114)
 ![image](https://github.com/AndreaRubianoM/proyecto/assets/135787751/077aaca3-ffd8-4bd1-a5be-ae7599b8e0c0)
 
-## Ranking de variables
-
-En esta sección se presenta un ranking de las variables más importantes para predecir la variable objetivo. Se utilizan técnicas como la correlación, el análisis de componentes principales (PCA) o la importancia de las variables en un modelo de aprendizaje automático.
-
 ## Relación entre variables explicativas y variable objetivo
 
 A contnuación se encuentra el gráfico de análisis de correlaciones para el total de variables numéricas del dataset. Este análisis nos permitió validar la relación directa existente entre las variables de mercado.
