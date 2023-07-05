@@ -15,7 +15,7 @@
 
 ### Rutas de origen de datos
 
-- Ubicación del de origen de los datos: el archivo será cargado en el repositorio.
+- Ubicación del de origen de los datos: el archivo será cargado en el repositorio (Ruta: /proyecto/data).
 - Estructura del archivo de origen de los datos: archivo en formato csv (delimitado por comas).
 - Procedimientos de transformación y limpieza de los datos: se validó la cantidad de datos nulos por variable, se realizó cambio de nombre a las variables para un mejor entendimiento.
 
